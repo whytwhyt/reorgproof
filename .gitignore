@@ -1,0 +1,13 @@
+bitcoin-core/
+downloads/
+logs/
+regtest-a/
+regtest-b/
+demo/runtime.*/
+recover.sh
+*.cookie
+*.pid
+.env
+__pycache__/
+
+evidence/demo-*/

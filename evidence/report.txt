@@ -1,0 +1,9 @@
+RESULT: PASS
+Node A old tip: 03d1cb3babaa80a45043fa7fc38db2b64307dcf230dcca021b0d831733bc9410
+Node A new tip: 12cbd416e352035838ad04b273823b3fdaa4dbba30b6c0bac7fc1f7ae43e5ac0
+Node B tip:     12cbd416e352035838ad04b273823b3fdaa4dbba30b6c0bac7fc1f7ae43e5ac0
+Old A height-1: 0e3dc888180f26ff05a2e3062451a4e7fbf9cddc9ca81c70df944142d96256d8
+New A height-1: 6d1db5f4c3e0a00968fd2e3e8a9334799571575aa337eaa062d4c0c2cb89c8d2
+Old A height-2: 03d1cb3babaa80a45043fa7fc38db2b64307dcf230dcca021b0d831733bc9410
+New A height-2: 3e6f0151ad988dccb04320a7c44a4a302340d482b808050ea9289259463b0847
+Node A final height: 3
